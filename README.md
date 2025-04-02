@@ -50,7 +50,7 @@ Before running this project, make sure you have the following installed:
 3. Run the application:
 
    ```bash
-   node app.js
+   node index.js
    ```
 
 4. You should see the blockchain being printed out in the console along with any tampering detection if applicable.
